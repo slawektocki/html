@@ -1,0 +1,51 @@
+section{
+    background-color: orange;
+    text-align: left;
+    width: 800px;
+}
+
+header{
+    background-color:white;
+    height: 50px;
+    width: 800px;
+
+}
+   
+
+.article{
+    background-color: green;
+    text-align: center;
+    width: 800px;
+}
+
+footer{
+    background-color: gray;
+    text-align: center;
+    width: 800px;
+}
+
+ ul {
+    float: left;
+    width: 100%;
+    
+    margin-bottom: auto;
+    list-style: none;
+    }
+     
+    li a {
+    display:block;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+    width: 130px;
+    color:black;
+    background-color: white;
+    margin: 10px;
+    border: 2px solid navy;
+    
+    }
+    
+    li a:hover {
+    color:white;
+    background: blue;
+    }
